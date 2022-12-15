@@ -1,0 +1,83 @@
+element.style {
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+head {
+    display: none;
+}
+:root {
+    --page-title-display: block;
+}
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+:root {
+    --e-global-color-astglobalcolor0: #c6d8c0;
+    --e-global-color-astglobalcolor1: #5c9735;
+    --e-global-color-astglobalcolor2: #141a0f;
+    --e-global-color-astglobalcolor3: #585b53;
+    --e-global-color-astglobalcolor4: #f4f6f3;
+    --e-global-color-astglobalcolor5: #ffffff;
+    --e-global-color-astglobalcolor6: #768471;
+    --e-global-color-astglobalcolor7: #141a0f;
+    --e-global-color-astglobalcolor8: #f4f6f3;
+}
+:root {
+    --ast-global-color-0: #c6d8c0;
+    --ast-global-color-1: #5c9735;
+    --ast-global-color-2: #141a0f;
+    --ast-global-color-3: #585b53;
+    --ast-global-color-4: #f4f6f3;
+    --ast-global-color-5: #ffffff;
+    --ast-global-color-6: #768471;
+    --ast-global-color-7: #141a0f;
+    --ast-global-color-8: #f4f6f3;
+}
+:root {
+    --ast-container-default-xlg-padding: 6.67em;
+    --ast-container-default-lg-padding: 5.67em;
+    --ast-container-default-slg-padding: 4.34em;
+    --ast-container-default-md-padding: 3.34em;
+    --ast-container-default-sm-padding: 6.67em;
+    --ast-container-default-xs-padding: 2.4em;
+    --ast-container-default-xxs-padding: 1.4em;
+}
+@media (max-width: 544px)
+html{
+    font-size: 100%;
+}
+
+html {
+    font-size: 100%;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+address, blockquote, body, dd, dl, dt, fieldset, figure, h1, h2, h3, h4, h5, h6, hr, html, iframe, legend, li, ol, p, pre, textarea, ul {
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+::selection {
+    background-color: var(--ast-global-color-0);
+    color: #000000;
+}
+::selection {
+    color: #fff;
+    background: #0274be;
+}
