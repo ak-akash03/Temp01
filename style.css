@@ -10,6 +10,7 @@ head {
 :root {
     --page-title-display: block;
 }
+
 :root {
     --wp--preset--font-size--normal: 16px;
     --wp--preset--font-size--huge: 42px;
